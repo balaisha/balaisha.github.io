@@ -5,11 +5,10 @@ html {
 
 body {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   min-height: 100vh;
-  overflow: hidden;
-  background-color: black;
+  background-color: black
 }
 
 ul {
