@@ -12,12 +12,6 @@ body {
   background-color: black;
 }
 
-img {
-  height: 100%;
-  width: auto;
-  margin: 5px;
-}
-
 ul {
   position: relative;
 }
