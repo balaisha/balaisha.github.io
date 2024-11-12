@@ -13,8 +13,9 @@ body {
 }
 
 img {
-  max-width:none;
-  width:250px;
+  height: 100%;
+  width: auto;
+  margin: 5px;
 }
 
 ul {
