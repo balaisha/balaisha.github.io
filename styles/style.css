@@ -4,11 +4,17 @@ html {
 }
 
 body {
-  display: flex;
+  display: grid;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
   background-color: black
+}
+
+img {
+  height: 100%;
+  width: auto;
+  margin: 5px;
 }
 
 ul {
